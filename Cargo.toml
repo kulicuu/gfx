@@ -116,6 +116,10 @@ name = "terrain"
 path = "examples/terrain/main.rs"
 
 [[example]]
+name = "terrain_kulicuu_mod"
+path = "examples/terrain_kulicuu_mod/main.rs"
+
+[[example]]
 name = "terrain_tessellated"
 path = "examples/terrain_tessellated/main.rs"
 
